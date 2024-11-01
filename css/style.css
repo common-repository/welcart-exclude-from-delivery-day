@@ -1,0 +1,15 @@
+.wefdd-contents .update-text {
+  color: #f00;
+  font-weight: bold;
+}
+.wefdd-contents .regular-text {
+  height: 300px;
+}
+.wefdd-contents .description-box {
+  width: calc(100% - 20px);
+}
+.wefdd-contents .description-box ul {
+  list-style-type: disc;
+  margin-left: 2em;
+}
+/*# sourceMappingURL=style.css.map */

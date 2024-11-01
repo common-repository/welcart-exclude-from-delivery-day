@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.wefdd-contents{
+  .update-text{
+    color: #f00;
+    font-weight: bold;
+  }
+  .regular-text{
+    height: 300px;
+  }
+  .description-box{
+    width: calc(100% - 20px);
+    ul{
+      list-style-type: disc;
+      margin-left: 2em;
+    }
+  }
+}
